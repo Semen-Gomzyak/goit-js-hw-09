@@ -16,3 +16,25 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.btn{
+  width: 200px;
+  height: 75px;
+    }
+
+        .timer {
+          display: flex;
+        }
+    
+        .field {
+          display: grid;
+          margin-right: 10px;
+          text-align: center;
+        }
+    
+        .value {
+          font-weight: 500;
+          font-size: 24px;
+          line-height: 1.36;
+          letter-spacing: 0.06em;
+        }
